@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a second-year graduate student in [Spatio-Temporal Social Sensing Lab, Peking University](https://geos3.netlify.app/).
+* I'm a second-year graduate student in [Spatio-Temporal Social Sensing Lab](https://geos3.netlify.app/),[Peking University](https://www.pku.edu.cn).
 
 * My research interests lie in the general area of spatial analysis theory and methods, including spatial statistics, GeoAI, spatial optimization, as well as their potential applications in ecology, urban geography, and astronomy. 
 
