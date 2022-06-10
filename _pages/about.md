@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Hao Guo's homepage.
+* I'm a second-year graduate student in [Spatio-Temporal Social Sensing Lab, Peking University](https://geos3.netlify.app/).
+
+* My research interests lie in the general area of spatial analysis theory and methods, including spatial statistics, GeoAI, spatial optimization, as well as their potential applications in ecology, urban geography, and astronomy. 
+
+* My name written in Chinese is *郭浩*. 
