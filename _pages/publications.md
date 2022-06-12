@@ -7,7 +7,11 @@ author_profile: true
 
 ## Preprints
 
-## Publications
+## Journal Articles
+
+<b>A note on GeoAI from the perspective of geographical laws</b><br>
+Yu Liu, <b>Hao Guo</b>, Haifeng Li, Weihua Dong, Tao Pei<br>
+<i>Acta Geodaetica et Cartographica Sinica (*测绘学报*)</i>, 2022, in press.<br>
 
 <b>Understanding China’s urban system evolution from web search index data</b><br>
 <b>Hao Guo</b>, Weiyu Zhang, Haode Du, Chaogui Kang, Yu Liu<br>
