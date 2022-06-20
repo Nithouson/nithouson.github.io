@@ -18,4 +18,3 @@ Yu Liu, <b>Hao Guo</b>, Haifeng Li, Weihua Dong, Tao Pei<br>
 <i>EPJ Data Science</i>, 2022.<br>
 [Paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y) &nbsp;&nbsp;&nbsp;&nbsp; [Code](https://github.com/Nithouson/BaiduCityAttr)
 
-## Not Intended to Publish
