@@ -24,18 +24,18 @@ Mathematics competition records:
     * Silver Medal, 2015. 
 
 ## Travel  
-I have visited 1 foreign country and 14 provinces in China. Hope that the COVID-19 pandemic mitigates so that I can update this record.  
+I have visited 1 foreign country and 14 provinces of China. Hope that the COVID-19 pandemic mitigates so that I can update this record.  
 
 ## Woodpiece League  
-I lead a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, thematic, and party games. 
-Some of my favorite boardgames include:
+I have been leading a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, thematic, and party games. 
+Some of my favorite boardgames:
 * Party: *Carcassonne*,  *Citadels*, *Felicity: The Cat in the Sack*;
 * Strategy: *Brass: Birmingham*, *Terraforming Mars*, *Orléans*;
 * Thematic: *Detective: A Modern Crime Board Game*, *Tainted Grail: Fall of Avalon*, *Unlock!* series;
 * Card: *Magic: The Gathering*.
 
 ## Orienteering  
-Orienteering is my favorite sports. I joined PKU Orienteering Association in 2016. Seleted events:  
+Orienteering is my favorite sports. I joined PKU Orienteering Association in 2016. Selected events:  
 * Aug 2020, X-O-Life Mountain Orienteering, Chongli, Hebei, China
 * Jan 2020, 6th Beidou Orienteering Competition, Longchuan & Zhaoqing, Guangdong, China
 * Oct 2019, C9 Orienteering Federation Competition, Dandong, Liaoning, China
