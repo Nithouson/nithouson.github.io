@@ -17,7 +17,7 @@ Mathematics competition records:
 * Alibaba Global Mathematics Competition
     * Finalist, 2022.
 * Chinese Mathematics Competition for Undergraduates
-    * Regional First Prize, 2017, 2018.
+    * Regional First Prize (non-math-major group), 2017, 2018.
 * National High School Mathematics Competition
     * Regional First Prize, 2015.
 * Southeastern China Mathematics Olympiad
