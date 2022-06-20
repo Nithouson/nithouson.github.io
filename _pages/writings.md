@@ -5,7 +5,7 @@ permalink: /writings/
 author_profile: true
 ---
 
-I write both fictions and non-fictions (life records). Here I post some collections of my writings. 
+I write both fictions and non-fictions (life records). Here I post some collections of my writings (mostly in Chinese). You can freely download and read them, but notice that one is not permitted to copy, modify, publish, or distribute them.  
 I also post some of my writings on my Wechat public account: Sines' Fantasia (正弦之幻想国).
 
 ## Fictions
@@ -27,5 +27,5 @@ Short essays written after reading books.
 
 ## Others 
 
-* <b>Wind and Cloud</b> (风云集)  
+* <b>Winds and Clouds</b> (风云集)  
 Collection of poems. I occasionally write informal poems of low quality.  
