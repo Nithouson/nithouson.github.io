@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Preprints
+<b>A generalized regionalization framework for geographical modelling and its application in spatial regression</b><br>
+<b>Hao Guo</b>, Andre Python, Yu Liu<br>
+<i>arXiv</i>, 2022.<br>
+[Paper](https://arxiv.org/abs/2206.09429)  
 
 ## Journal Articles
 
