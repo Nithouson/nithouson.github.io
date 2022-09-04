@@ -36,6 +36,7 @@ Some of my favorite boardgames:
 
 ## Orienteering  
 Orienteering is my favorite sports. I joined PKU Orienteering Association in 2016. Selected events:  
+* Jul 2022, 1st Beijing-Zhangjiakou Winter Olympics Venue Orienteering, Chongli, Hebei, China (MO 8th place)
 * Aug 2020, X-O-Life Mountain Orienteering, Chongli, Hebei, China
 * Jan 2020, 6th Beidou Orienteering Competition, Longchuan & Zhaoqing, Guangdong, China
 * Oct 2019, C9 Orienteering Federation Competition, Dandong, Liaoning, China
