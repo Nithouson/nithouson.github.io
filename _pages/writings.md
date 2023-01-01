@@ -22,7 +22,7 @@ Early writings. To be digitized.
 * <b>Time in No.9 Middle School</b> (九中岁月) 
 * <b>Double Sun</b> (双阳集)   
 Collection of required writing in middle school Chinese classes.
-* <b>Reading Reflections</b> (阅读闲谈)  
+* <b>[Reading Reflections](../docs/Reading_Reflections.pdf)</b> (阅读闲谈)  
 Short essays written after reading books.  
 
 ## Others 
