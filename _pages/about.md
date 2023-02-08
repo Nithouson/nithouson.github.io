@@ -10,4 +10,4 @@ redirect_from:
 
 * I'm a Ph.D. student in [Spatio-Temporal Social Sensing Lab](https://geos3.netlify.app/), [Peking University](https://www.pku.edu.cn).
 
-* My research interests lie in the general area of spatial analysis theory and methods, including spatial statistics, GeoAI, spatial optimization, as well as their potential applications in ecology, urban geography, and astronomy. 
+* My research interests lie in the general area of spatial analytics and related statistics, geometry, and optimization methods. I also pay attention to their potential applications in ecology, urban geography, and astronomy. 
