@@ -14,7 +14,8 @@ author_profile: true
 ## Journal Articles
 \[3] &nbsp; <b>On spatial effects in geographical analysis</b> (地理分析中的空间效应) <br>
 &emsp;&emsp;Yu Liu, Keli Wang, Xiaoyue Xing, <b>Hao Guo</b>, Weiyu Zhang, et al. <br>
-&emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), 2023, to appear.<br>
+&emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), 2023.<br>
+&emsp;&emsp;[Paper](http://www.geog.com.cn/CN/10.11821/dlxb202303001)
 
 \[2] &nbsp; <b>A note on GeoAI from the perspective of geographical laws</b> (从地理规律到地理空间人工智能) <br>
 &emsp;&emsp;Yu Liu, <b>Hao Guo</b>, Haifeng Li, Weihua Dong, Tao Pei<br>
