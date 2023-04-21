@@ -12,7 +12,8 @@ Although these questions seem too big, I feel it essential to find my answers to
 ## Abstract Romance  
 Experiences of high school mathematics competition established my passion for mathematics. 
 I am interested in various branches of pure mathematics, especially combinatorics, abstract algebra, and number theory. I am also interested in algorithms and theory of computation.    
-I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png).   
+I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png).  
+I also take part in puzzle contests on platforms such as [LMI](https://logicmastersindia.com/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*. 
 Mathematics competition records:
 * Alibaba Global Mathematics Competition
     * Finalist, 2022.
@@ -27,10 +28,10 @@ Mathematics competition records:
 I have visited 1 foreign country and 14 provinces of China. Hope that the COVID-19 pandemic mitigates so that I can update this record.  
 
 ## Woodpiece League  
-I have been leading a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, thematic, and party games. 
+I have been leading a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, narrative, and party games. 
 Some of my favorite boardgames:
 * Party: *Carcassonne*,  *Citadels*, *Felicity: The Cat in the Sack*;
-* Strategy: *Brass: Birmingham*, *Terraforming Mars*, *Orléans*;
+* Strategy: *Brass: Birmingham*, *Kanban EV*, *Terraforming Mars*, *Dune Imperium*;
 * Thematic: *Detective: A Modern Crime Board Game*, *Tainted Grail: Fall of Avalon*, *Unlock!* series;
 * Card: *Magic: The Gathering*.
 
