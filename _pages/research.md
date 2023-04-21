@@ -12,6 +12,10 @@ author_profile: true
 [Paper](https://arxiv.org/abs/2206.09429)  
 
 ## Journal Articles
+\[4] &nbsp; <b>Quantifying spatially-varying impacts of public transport on NO2 concentrations with big geo-data</b><br>
+&emsp;&emsp;Han Wang, Xiao Zhou, <b>Hao Guo</b>, Quanhua Dong, Zhou Huang <br>
+&emsp;&emsp;<i>Environmental Monitoring and Assessment</i>, 2023, in press.<br>
+
 \[3] &nbsp; <b>On spatial effects in geographical analysis</b> (地理分析中的空间效应) <br>
 &emsp;&emsp;Yu Liu, Keli Wang, Xiaoyue Xing, <b>Hao Guo</b>, Weiyu Zhang, et al. <br>
 &emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), 2023.<br>
