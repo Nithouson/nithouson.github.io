@@ -13,7 +13,7 @@ Although these questions seem too big, I feel it essential to find my answers to
 Experiences of high school mathematics competition established my passion for mathematics. 
 I am interested in various branches of pure mathematics, especially combinatorics, abstract algebra, and number theory. I am also interested in algorithms and theory of computation.    
 I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png).  
-I also take part in puzzle contests on platforms such as [LMI](https://logicmastersindia.com/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*. 
+I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.     
 Mathematics competition records:
 * Alibaba Global Mathematics Competition
     * Finalist, 2022.
