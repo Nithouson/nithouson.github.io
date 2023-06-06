@@ -16,7 +16,7 @@ I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that co
 I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.       
 Mathematics competition records:
 * Alibaba Global Mathematics Competition
-    * Finalist, 2022.
+    * Finalist, 2022, 2023.
 * Chinese Mathematics Competition for Undergraduates
     * Regional First Prize (non-math-major group), 2017, 2018.
 * National High School Mathematics Competition
