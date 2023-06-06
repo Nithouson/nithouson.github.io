@@ -8,27 +8,22 @@ author_profile: true
 ## Preprints
 <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 <b>Hao Guo</b>, Andre Python, Yu Liu<br>
-<i>arXiv</i>, 2022.<br>
-[Paper](https://arxiv.org/abs/2206.09429)  
+<i>[arXiv](https://arxiv.org/abs/2206.09429)</i>, 2022. 
 
 ## Journal Articles
 \[4] &nbsp; <b>Quantifying spatially-varying impacts of public transport on NO2 concentrations with big geo-data</b><br>
 &emsp;&emsp;Han Wang, Xiao Zhou, <b>Hao Guo</b>, Quanhua Dong, Zhou Huang <br>
-&emsp;&emsp;<i>Environmental Monitoring and Assessment</i>, 2023.<br>
-&emsp;&emsp;[Paper](https://link.springer.com/article/10.1007/s10661-023-11289-4)
+&emsp;&emsp;<i>[Environmental Monitoring and Assessment](https://link.springer.com/article/10.1007/s10661-023-11289-4)</i>, 2023.<br>
 
 \[3] &nbsp; <b>On spatial effects in geographical analysis</b> (地理分析中的空间效应) <br>
 &emsp;&emsp;Yu Liu, Keli Wang, Xiaoyue Xing, <b>Hao Guo</b>, Weiyu Zhang, et al. <br>
-&emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), 2023.<br>
-&emsp;&emsp;[Paper](http://www.geog.com.cn/CN/10.11821/dlxb202303001)
+&emsp;&emsp;<i>[Acta Geographica Sinica](http://www.geog.com.cn/CN/10.11821/dlxb202303001) </i>(地理学报), 2023.<br>
 
 \[2] &nbsp; <b>A note on GeoAI from the perspective of geographical laws</b> (从地理规律到地理空间人工智能) <br>
 &emsp;&emsp;Yu Liu, <b>Hao Guo</b>, Haifeng Li, Weihua Dong, Tao Pei<br>
-&emsp;&emsp;<i>Acta Geodaetica et Cartographica Sinica </i>(测绘学报), 2022.<br>
-&emsp;&emsp;[Paper](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220125)
+&emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 \[1] &nbsp; <b>Understanding China’s urban system evolution from web search index data</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Weiyu Zhang, Haode Du, Chaogui Kang, Yu Liu<br>
-&emsp;&emsp;<i>EPJ Data Science</i>, 2022.<br>
-&emsp;&emsp;[Paper](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y) &nbsp;&nbsp;&nbsp;&nbsp; [Code](https://github.com/Nithouson/BaiduCityAttr)
+&emsp;&emsp;<i>[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[Code\]](https://github.com/Nithouson/BaiduCityAttr)<br>
 
