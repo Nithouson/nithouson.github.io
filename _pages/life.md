@@ -25,7 +25,7 @@ Mathematics competition records:
     * Silver Medal, 2015. 
 
 ## Travel  
-I have visited 1 foreign country and 14 provinces of China. Hope that the COVID-19 pandemic mitigates so that I can update this record.  
+I have visited 1 foreign country and 14 provinces of China. 
 
 ## Woodpiece League  
 I have been leading a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, narrative, and party games. 
