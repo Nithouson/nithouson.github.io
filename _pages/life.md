@@ -11,7 +11,7 @@ Although these questions seem too big, I feel it essential to find my answers to
 
 ## Abstract Romance  
 Experiences of high school mathematics competition established my passion for mathematics. 
-I am interested in various branches of pure mathematics, especially combinatorics, abstract algebra, and number theory. I am also interested in algorithms and theory of computation.    
+I am interested in various branches of pure mathematics, especially combinatorics, algebra, and number theory. I am also interested in algorithms and theory of computation.    
 I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png).  
 I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.       
 Mathematics competition records:
@@ -25,14 +25,14 @@ Mathematics competition records:
     * Silver Medal, 2015. 
 
 ## Travel  
-I have visited 1 foreign country and 14 provinces of China. 
+I have visited 1 foreign country and 15 provinces of China. 
 
 ## Woodpiece League  
 I have been leading a boardgame group named <b>Woodpiece League</b> since 2018. We meet and play every two weeks. We play various boardgame genres, including strategy, narrative, and party games. 
 Some of my favorite boardgames:
-* Party: *Carcassonne*,  *Citadels*, *Felicity: The Cat in the Sack*;
 * Strategy: *Brass: Birmingham*, *Kanban EV*, *Terraforming Mars*, *Dune Imperium*;
 * Narrative: *Detective: A Modern Crime Board Game*, *Tainted Grail: Fall of Avalon*, *Unlock!* series;
+* Party: *Carcassonne*,  *Citadels*, *Felicity: The Cat in the Sack*;
 * Card: *Magic: The Gathering*.
 
 ## Orienteering  
