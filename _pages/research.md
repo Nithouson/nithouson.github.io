@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Preprints
+## Working Papers
 
 ## Journal Articles
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
