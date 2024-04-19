@@ -6,8 +6,14 @@ author_profile: true
 ---
 
 ## Working Papers
+<b>Analyzing and Modeling Spatial Heterogeneity: A Methodological Overview</b> (空间异质性分析与建模方法综述)<br>
+<b>Hao Guo</b>, Lei Dong, Yu Liu<br>
 
 ## Journal Articles
+\[6] &nbsp; <b>Constructing topology-constraint distance cartograms with application on spatial interaction data</b><br>
+&emsp;&emsp;Tianyou Cheng, <b>Hao Guo</b>, Xiao-Jian Chen, Quanhua Dong, Chaogui Kang, Yu Liu<br>
+&emsp;&emsp;<i>Transactions in GIS</i>, in press. <br>
+
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
 &emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2266493)</i>, 2023. [\[arXiv\]](https://arxiv.org/abs/2206.09429) [\[Code\]](https://github.com/Nithouson/regreg) [\[Exposition\]](https://mp.weixin.qq.com/s/4SE9RsdzoJ6nv0nH4PRyPQ)<br>
@@ -25,6 +31,6 @@ author_profile: true
 &emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 \[1] &nbsp; <b>Understanding China’s urban system evolution from web search index data</b><br>
-&emsp;&emsp;<b>Hao Guo</b>, Weiyu Zhang, Haode Du, Chaogui Kang, Yu Liu<br>
+&emsp;&emsp;<b>Hao Guo\*</b>, Weiyu Zhang\*, Haode Du\*, Chaogui Kang, Yu Liu<br>
 &emsp;&emsp;<i>[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[Code\]](https://github.com/Nithouson/BaiduCityAttr) [\[Exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
 
