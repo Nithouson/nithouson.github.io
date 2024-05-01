@@ -6,23 +6,16 @@ author_profile: true
 ---
 
 ## Overwhelming Splendor  
-<b>Overwhelming Splendor</b> is a project to understand the logical deduction system known as mathematics, the law behind our natural world, as well as the phenomena and mechanisms of human spirit.
+<b>Overwhelming Splendor</b> is my lifelong campaign to understand the logical deduction system known as mathematics, the law behind our natural world, as well as the phenomena and mechanisms of human spirit.
 Although these questions seem too big, I feel it essential to find my answers to them, or at least some perspectives, through learning and life experience.
+
+"<i>I aspire to literature, music, and all the knowledge between heaven and earth.</i>"
 
 ## Abstract Romance  
 Experiences of high school mathematics competition established my passion for mathematics. 
 I am interested in various branches of pure mathematics, especially combinatorics, algebra, and number theory. I am also interested in algorithms and theory of computation.    
-I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png).  
-I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.       
-Mathematics competition records:
-* Alibaba Global Mathematics Competition
-    * Finalist, 2022, 2023.
-* Chinese Mathematics Competition for Undergraduates
-    * Regional First Prize (non-math-major group), 2017, 2018.
-* National High School Mathematics Competition
-    * Regional First Prize, 2015.
-* Southeastern China Mathematics Olympiad
-    * Silver Medal, 2015. 
+<i>[Ziyi Handbook of Mathematics](https://nithouson.github.io/life/ziyi-handbook)</i> is my lifelong project to integrate and systemize what I have learned about mathematics.  
+I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png). I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.     
 
 ## Travel  
 I have visited 1 foreign country and 15 provinces of China. 
