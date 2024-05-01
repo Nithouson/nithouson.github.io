@@ -14,7 +14,7 @@ Although these questions seem too big, I feel it essential to find my answers to
 ## Abstract Romance  
 Experiences of high school mathematics competition established my passion for mathematics. 
 I am interested in various branches of pure mathematics, especially combinatorics, algebra, and number theory. I am also interested in algorithms and theory of computation.    
-<i>[Ziyi Handbook of Mathematics](https://nithouson.github.io/life/ziyi-handbook)</i> is my lifelong project to integrate and systemize what I have learned about mathematics.  
+<i>[Ziyi Handbook of Mathematics](https://nithouson.github.io/life/ziyi-handbook)</i> is my lifelong project to systemize what I have learned about mathematics.  
 I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png). I also take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*.     
 
 ## Travel  
