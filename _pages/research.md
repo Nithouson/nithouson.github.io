@@ -12,7 +12,7 @@ author_profile: true
 ## Journal Articles
 \[6] &nbsp; <b>Constructing topology-constraint distance cartograms with application on spatial interaction data</b><br>
 &emsp;&emsp;Tianyou Cheng, <b>Hao Guo</b>, Xiao-Jian Chen, Quanhua Dong, Chaogui Kang, Yu Liu<br>
-&emsp;&emsp;<i>Transactions in GIS</i>, in press. <br>
+&emsp;&emsp;<i>[Transactions in GIS](https://onlinelibrary.wiley.com/doi/10.1111/tgis.13168)</i>, in press. <br>
 
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
