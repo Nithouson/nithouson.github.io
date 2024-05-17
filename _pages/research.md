@@ -10,6 +10,10 @@ author_profile: true
 <b>Hao Guo</b>, Lei Dong, Yu Liu<br>
 
 ## Journal Articles
+\[7] &nbsp; <b>Downscaling spatial interaction with socioeconomic attributes</b><br>
+&emsp;&emsp;Chengling Tang, Lei Dong, <b>Hao Guo</b>, Xuechen Wang, Xiao-Jian Chen, Quanhua Dong, Yu Liu<br>
+&emsp;&emsp;<i>EPJ Data Science</i>, in press. <br>
+
 \[6] &nbsp; <b>Constructing topology-constraint distance cartograms with application on spatial interaction data</b><br>
 &emsp;&emsp;Tianyou Cheng, <b>Hao Guo</b>, Xiao-Jian Chen, Quanhua Dong, Chaogui Kang, Yu Liu<br>
 &emsp;&emsp;<i>[Transactions in GIS](https://onlinelibrary.wiley.com/doi/10.1111/tgis.13168)</i>, in press. <br>
