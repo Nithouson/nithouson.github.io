@@ -18,3 +18,7 @@ author_profile: true
 ## Teaching
 
 * TA of *Introduction to Geographical Information Systems*  <span style="float:right;">Peking University, Spring 2021</span>
+
+## Service
+
+* Peer Reviewer of <i>Urban Informatics</i>  
