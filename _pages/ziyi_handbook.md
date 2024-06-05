@@ -11,12 +11,12 @@ author_profile: true
 
 ## (Not-yet-finalized) Contents and (Not-yet-finished) Online Version
 Frontmatter  
-### I. Foundation of Mathmatics
+### I Foundation of Mathmatics
 1. Mathematical Logic
 2. Sets
 3. Natural Numbers
 4. Cardinals and Ordinals
-5. Categories
+5. Categories  
 ### II. Algebra
 6. Sequences
 7. Elementary Functions
@@ -27,15 +27,15 @@ Frontmatter
 12. Fields
 13. Matrices
 14. Linear Spaces and Mappings
-15. Modules
+15. Modules  
 ### III. Number Theory
 16. Divisibility and Congruence
 17. Diophantine Equations
 18. Algebraic Number Theory
-19. Analytical Number Theory
+19. Analytical Number Theory  
 ### IV. Topology
 20. Point Set Topology
-21. Algebraic Topology
+21. Algebraic Topology  
 ### V. Analysis
 22. Real Numbers
 23. Limits
@@ -44,7 +44,7 @@ Frontmatter
 26. Series
 27. Functions of Complex Variables
 28. Lebesgue Measure and Integration
-29. Differential Equations
+29. Differential Equations  
 ### VI. Geometry
 30. Vectors and Geometric Transformations
 31. Planar Geometry
@@ -52,16 +52,16 @@ Frontmatter
 33. Spherical geometry
 34. Conics and Quadrics
 35. Curves
-36. Surfaces
+36. Surfaces  
 ### VII. Probability
 37. Probability Theory
-38. Random Processes
+38. Random Processes  
 ### VIII. Combinatorics
 39. Enumerative Combinatorics
 40. Graph Theory
 41. Design Theory
 42. Discrete Geometry
-43. Recreational Mathematics
+43. Recreational Mathematics  
 ### IX. Computational Mathematics
 44. Languages and Automata
 45. Computability
