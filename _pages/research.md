@@ -40,5 +40,5 @@ author_profile: true
 
 ## Presentations
 
-\[2] &nbsp; <b> Distilling geographic laws from human mobility data</b>. Urban Data, Science and Technology Workshop (Doctoral student presentation). Tsinghua University, Beijing, 2024.6.  
+\[2] &nbsp; Distilling geographic laws from human mobility data. Urban Data, Science and Technology Workshop (Doctoral student presentation). Tsinghua University, Beijing, 2024.6.  
 \[1] &nbsp; 一种面向知识提取的空间聚类与分区域回归框架 (in Chinese, with Prof. Yu Liu). 第十七届中国地理信息科学理论与方法年会, 杭州, 2021.10.  
