@@ -38,3 +38,7 @@ author_profile: true
 &emsp;&emsp;<b>Hao Guo\*</b>, Weiyu Zhang\*, Haode Du\*, Chaogui Kang, Yu Liu<br>
 &emsp;&emsp;<i>[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[Code\]](https://github.com/Nithouson/BaiduCityAttr) [\[Exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
 
+## Presentations
+
+\[2] &nbsp; <b> Distilling geographic laws from human mobility data</b>. Urban Data, Science and Technology Workshop (Doctoral student presentation). Tsinghua University, Beijing, 2024.6.  
+\[1] &nbsp; 一种面向知识提取的空间聚类与分区域回归框架 (in Chinese, with Prof. Yu Liu). 第十七届中国地理信息科学理论与方法年会, 杭州, 2021.10.  
