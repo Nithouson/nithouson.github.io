@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-<b>Analyzing and Modeling Spatial Heterogeneity: A Methodological Overview</b> (空间异质性分析与建模方法综述)<br>
+<b>Tackling Spatial Heterogeneity in Geographical Analysis: An Overview</b> (空间异质性建模方法)<br>
 <b>Hao Guo</b>, Lei Dong, Yu Liu<br>
 
 ## Journal Articles
