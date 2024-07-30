@@ -11,41 +11,35 @@ author_profile: true
 
 ## (Not-yet-finalized) Contents and (Not-yet-finished) Online Version
 Frontmatter  
-### I Foundation of Mathmatics
 1. Mathematical Logic
 2. Sets
-3. Natural Numbers
-4. Cardinals and Ordinals
-5. Categories  
-### II. Algebra
-6. Sequences
-7. Elementary Functions
-8. Equalities and Inequalities
-9. Groups
-10. Rings
-11. Polynomials
-12. Fields
-13. Matrices
-14. Linear Spaces and Mappings
-15. Modules  
-### III. Number Theory
-16. Divisibility and Congruence
-17. Diophantine Equations
-18. Algebraic Number Theory
-19. Analytical Number Theory  
-### IV. Topology
-20. Point Set Topology
-21. Algebraic Topology  
-### V. Analysis
-22. Real Numbers
-23. Limits
-24. Univariate Calculus
-25. Multivariate Calculus
-26. Series
-27. Functions of Complex Variables
-28. Lebesgue Measure and Integration
-29. Differential Equations  
-### VI. Geometry
+3. Partial Order
+4. Categories
+5. Groups
+6. Rings
+7. Polynomials
+8. Fields
+9. Matrices
+10. Linear Spaces and Mappings
+11. Modules
+12. Sequences
+13. Point Set Topology
+14. Algebraic Topology
+15. Real Numbers
+16. Elementary Functions
+17. Functional Equations
+18. Inequalities
+19. Univariate Calculus
+20. Multivariate Calculus
+21. Function Series
+22. Functions of Complex Variables
+23. Lebesgue Measure and Integration
+24. Ordinary Differential Equations
+25. Partial Differential Equations
+26. Divisibility and Congruence
+27. Diophantine Equations
+28. Algebraic Number Theory
+29. Analytical Number Theory  
 30. Vectors and Geometric Transformations
 31. Planar Geometry
 32. Solid Geometry
@@ -53,16 +47,13 @@ Frontmatter
 34. Conics and Quadrics
 35. Curves
 36. Surfaces  
-### VII. Probability
 37. Probability Theory
 38. Random Processes  
-### VIII. Combinatorics
 39. Enumerative Combinatorics
 40. Graph Theory
 41. Design Theory
 42. Discrete Geometry
 43. Recreational Mathematics  
-### IX. Computational Mathematics
 44. Languages and Automata
 45. Computability
 46. Computational Complexity
