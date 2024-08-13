@@ -20,7 +20,7 @@ author_profile: true
 
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
-&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2266493)</i>, 2023. [\[arXiv\]](https://arxiv.org/abs/2206.09429) [\[code\]](https://github.com/Nithouson/regreg) [\[exposition\]](https://mp.weixin.qq.com/s/4SE9RsdzoJ6nv0nH4PRyPQ)<br>
+&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2266493)</i>, 2023. [\[arXiv\]](https://arxiv.org/abs/2206.09429) [\[code\]](https://github.com/Nithouson/regreg) [\[exposition\]](https://mp.weixin.qq.com/s/4SE9RsdzoJ6nv0nH4PRyPQ) [\[errata\]](https://github.com/Nithouson/regreg/blob/main/README.md#errata)<br>
 
 \[4] &nbsp; <b>Quantifying spatially-varying impacts of public transport on NO2 concentrations with big geo-data</b><br>
 &emsp;&emsp;Han Wang, Xiao Zhou, <b>Hao Guo</b>, Quanhua Dong, Zhou Huang <br>
