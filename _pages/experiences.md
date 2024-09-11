@@ -21,4 +21,4 @@ author_profile: true
 
 ## Service
 
-* Peer Reviewer of <i>Urban Informatics</i>  
+* Peer Reviewer of <i>Urban Climate</i>, <i>Urban Informatics</i>.  
