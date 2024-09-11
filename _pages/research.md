@@ -39,6 +39,6 @@ author_profile: true
 &emsp;&emsp;<i>[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[code\]](https://github.com/Nithouson/BaiduCityAttr) [\[exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
 
 ## Presentations
-
+\[3] &nbsp; 顾及空间异质性的地理回归方法 (in Chinese, with Prof. Yu Liu). 中国地理学会地理模型与地理信息分析专业委员会2024年学术年会, 北京, 2024.8.  
 \[2] &nbsp; Distilling geographic laws from human mobility data. Urban Data, Science and Technology Workshop (Doctoral student presentation), Tsinghua University, Beijing, 2024.6.  
 \[1] &nbsp; 一种面向知识提取的空间聚类与分区域回归框架 (in Chinese, with Prof. Yu Liu). 第十七届中国地理信息科学理论与方法年会, 杭州, 2021.10.  
