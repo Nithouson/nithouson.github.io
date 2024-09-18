@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Working Papers
-<b>Tackling Spatial Heterogeneity in Geographical Analysis: An Overview</b> (空间异质性建模方法)<br>
+<b>Distilling symbolic models from mobility data</b><br>
+<b>Hao Guo\*</b>, Weiyu Zhang\*, Junjie Yang, Yuanqiao Hou, Lei Dong, Yu Liu<br>
+
+<b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
 <b>Hao Guo</b>, Lei Dong, Yu Liu<br>
 
 ## Journal Articles
