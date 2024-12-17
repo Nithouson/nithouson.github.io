@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working papers
-<b>Distilling symbolic models from mobility data</b><br>
+<b>Data driven discovery of human mobility models</b><br>
 <b>Hao Guo\*</b>, Weiyu Zhang\*, Junjie Yang, Yuanqiao Hou, Lei Dong, Yu Liu<br>
 
 <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
