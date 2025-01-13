@@ -8,11 +8,13 @@ author_profile: true
 ## Working papers
 <b>Data driven discovery of human mobility models</b><br>
 <b>Hao Guo\*</b>, Weiyu Zhang\*, Junjie Yang, Yuanqiao Hou, Lei Dong, Yu Liu<br>
-
-<b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
-<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
+[\[arXiv\]](https://arxiv.org/abs/2501.05684)
 
 ## Leading author publications
+\[9] &nbsp; Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
+&emsp;&emsp;<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
+&emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), in press.<br>
+
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
 &emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2266493)</i>, 2023. [\[arXiv\]](https://arxiv.org/abs/2206.09429) [\[code\]](https://github.com/Nithouson/regreg) [\[exposition\]](https://mp.weixin.qq.com/s/4SE9RsdzoJ6nv0nH4PRyPQ) [\[errata\]](https://github.com/Nithouson/regreg/blob/main/README.md#errata)<br>
