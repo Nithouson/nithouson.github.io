@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 <b>RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks</b><br>
-<b>Hao Guo</b>, Hao Guo, Han Wang, Di Zhu, Lun Wu, A. Stewart Fotheringham, Yu Liu<br>
+<b>Hao Guo</b>, Han Wang, Di Zhu, Lun Wu, A. Stewart Fotheringham, Yu Liu<br>
 [\[arXiv\]](https://arxiv.org/abs/2501.17599)
 
 <b>Data driven discovery of human mobility models</b><br>
