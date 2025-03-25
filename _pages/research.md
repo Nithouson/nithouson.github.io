@@ -18,7 +18,7 @@ author_profile: true
 ## Leading author publications
 \[9] &nbsp; <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
 &emsp;&emsp;<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
-&emsp;&emsp;<i>Acta Geographica Sinica </i>(地理学报), in press.<br>
+&emsp;&emsp;<i>[Acta Geographica Sinica](https://www.geog.com.cn/CN/10.11821/dlxb202503001) </i>(地理学报), 2025.<br>
 
 \[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
