@@ -8,8 +8,8 @@ author_profile: true
 ## Education
 
 * <b>Peking University</b>
-    * Institute of Remote Sensing and Geographic Information System <span style="float:right;"> Sept 2020 - Now </span>
-        * Ph.D. in Cartography and Geographic Information Systems (in progress)
+    * Institute of Remote Sensing and Geographic Information System <span style="float:right;"> Sept 2020 - Jul 2025 </span>
+        * Ph.D. in Cartography and Geographic Information Systems (expected)
     * School of Earth and Space Sciences <span style="float:right;"> Sept 2016 - Jul 2020 </span>
         * B.S. in Geographical Information Science
     * School of Mathematical Sciences <span style="float:right;"> Sept 2017 - Jul 2020 </span>
@@ -21,4 +21,4 @@ author_profile: true
 
 ## Service
 
-* Peer Reviewer of <i>Urban Climate</i>, <i>Urban Informatics</i>.  
+* Peer Reviewer of <i> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</i>, <i>[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)</i>, <i>[Urban Informatics](https://link.springer.com/journal/44212)</i>.  
