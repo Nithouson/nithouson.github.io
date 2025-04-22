@@ -8,12 +8,9 @@ author_profile: true
 ## Education
 
 * <b>Peking University</b>
-    * Institute of Remote Sensing and Geographic Information System <span style="float:right;"> Sept 2020 - Jul 2025 </span>
-        * Ph.D. in Cartography and Geographic Information Systems (expected)
-    * School of Earth and Space Sciences <span style="float:right;"> Sept 2016 - Jul 2020 </span>
-        * B.S. in Geographical Information Science
-    * School of Mathematical Sciences <span style="float:right;"> Sept 2017 - Jul 2020 </span>
-        * B.S. in Mathematics and Applied Mathematics (double major)
+    * Ph.D. in Cartography and Geographic Information Systems (expected) <span style="float:right;"> Sept 2020 - Jul 2025 </span>
+    * B.S. in Mathematics and Applied Mathematics (second major) <span style="float:right;"> Sept 2017 - Jul 2020 </span>
+    * B.S. in Geographical Information Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
 
 ## Teaching
 
