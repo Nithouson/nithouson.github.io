@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. candidate in [Spatio-Temporal Social Sensing Lab](https://geos3.netlify.app/), [Peking University](https://www.pku.edu.cn).   
+* I obtained my Ph.D. in Cartography and GIS from [Peking University](https://www.pku.edu.cn). I will be a Postdoctoral Research Fellow with [Spatio-Temporal Social Sensing Lab](https://geos3.netlify.app/), Peking University from Fall 2025.
 
-* My research areas are quantitative geography and spatial data science. Especially, I am interested in developing methods for geospatial analysis, including statistic, geometric, and optimization methods. I also pay attention to their potential applications in ecology, urban geography, and astronomy. 
+* My research areas are quantitative geography and spatial data science. Especially, I am interested in developing methods for geospatial analysis, involving spatial statistics, spatial optimization, and computational geometry. I also pay attention to their potential applications in ecology, urban geography, and astronomy. 
