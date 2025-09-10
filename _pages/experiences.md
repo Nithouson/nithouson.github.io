@@ -5,6 +5,11 @@ permalink: /experiences/
 author_profile: true
 ---
 
+## Employment
+
+* <b>Peking University</b>
+    * Postdoctoral Fellow <span style="float:right;"> Sept 2025 - now </span>
+
 ## Education
 
 * <b>Peking University</b>
