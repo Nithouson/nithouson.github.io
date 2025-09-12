@@ -23,4 +23,5 @@ author_profile: true
 
 ## Service
 
-* Peer Reviewer of <i> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</i>, <i>[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)</i>, <i>[Urban Informatics](https://link.springer.com/journal/44212)</i>.  
+* Journal Reviewer: <i> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</i>, <i>[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)</i>, <i>[Urban Informatics](https://link.springer.com/journal/44212)</i>.
+* Conference Reviewer: <i> [ACM SIGSPATIAL GeoAI](https://dl.acm.org/conference/gis)</i>
