@@ -23,14 +23,8 @@ Provinces of China visited: 18/34
 World heritage sites visited: 17 cultural, 4 natural, 2 mixed
 
 ## Boardgame 
-I led a boardgame group named <b>Woodpiece League</b> from 2018 to 2025. We played various boardgame genres, including strategy, narrative, and party games. 
-Some of my favorite boardgames:
-* Strategy: *Brass: Birmingham*, *Kanban EV*, *Terraforming Mars*, *Dune Imperium*, *Orléans*;
-* Narrative: *Tainted Grail: Fall of Avalon*, *Detective: A Modern Crime Board Game*, *Unlock!* series;
-* Party: *Carcassonne*,  *Citadels*, *Felicity: The Cat in the Sack*, *The Quacks of Quedlinburg*, *Ra*;
-* Card: *Magic: The Gathering*.
+I led a boardgame group named <b>Woodpiece League</b> from 2018 to 2025. We played various boardgame genres, including strategy, narrative, and party games. I also play adventure, music, and puzzle videogames.
 
-I also play adventure, music, and puzzle videogames. Some of my favorites include *Drawn: The Painted Tower*, *Chants of Sennaar*, *Cytus II*, *Euclidea* and *Genshin Impact*. 
 
 ## Orienteering  
 Orienteering is my favorite sports. I joined PKU Orienteering Association in 2016. Selected events:  
