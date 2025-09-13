@@ -7,6 +7,10 @@ author_profile: true
 ## Some of my favorite ...
 
 ### Novels & Novellas
+* *L'ile Mysterieuse* (1874) by Jule Verne
+* *Anne of Green Gables* (1904) by Lucy Maud Montgomery
+* *The Lord of the Rings* (1955) by J. R. R. Tolkien
+* *Dead End* (2010) by Liu Cixin
 
 ### Novelettes & Short Stories
 
@@ -15,6 +19,17 @@ author_profile: true
 ### Music Albums
 
 ### Movies
+
+* *Love Letter* (1995)
+* もののけ姫 (1997)
+* *The Truman Show* (1998)
+* 千と千尋の神隠し (2001)
+* *The Polar Express* (2004)
+* *Bridge to Terabithia* (2007)
+* *Tron Legacy* (2010)
+* *Flipped* (2010)
+* 君の名は。(2016)
+* *Robot Dreams* (2023)
 
 ### Boardgames
 * *Magic: The Gathering* (1993) by Richard Garfield
@@ -29,8 +44,12 @@ author_profile: true
 * *Kanban EV* (2020) by Vital Lacerda
 
 ### Videogames
+* *World of Goo* (2008)
+* *Spore* (2008)
 * *Drawn: The Painted Tower* (2009)
+* *Machinarium* (2009)
 * *Deemo* (2013)
+* *Mini Metro* (2015)
 * *Opus Magnum* (2017)
 * *Cytus II* (2018)
 * *Genshin Impact* (2020)
