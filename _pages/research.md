@@ -15,7 +15,7 @@ author_profile: true
 
 \[10] <b>RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Han Wang, Di Zhu, Lun Wu, A. Stewart Fotheringham, Yu Liu<br>
-&emsp;&emsp;<i>Annals of the American Association of Geographers</i>, in press. [\[arXiv\]](https://arxiv.org/abs/2501.17599) [\[code\]](https://github.com/Nithouson/RegionGCN)
+&emsp;&emsp;<i>[Annals of the American Association of Geographers](https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2558661)</i>, 2025. [\[arXiv\]](https://arxiv.org/abs/2501.17599) [\[code\]](https://github.com/Nithouson/RegionGCN)
 
 \[9] &nbsp; <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
 &emsp;&emsp;<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
