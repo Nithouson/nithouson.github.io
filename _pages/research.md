@@ -56,7 +56,7 @@ author_profile: true
 &emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 ## Conferences
-\[4] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]]()    
+\[4] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]](../docs/netmob25.pdf)    
 \[3] &nbsp; 顾及空间异质性的地理回归方法 (in Chinese, with Prof. Yu Liu). 中国地理学会地理模型与地理信息分析专业委员会2024年学术年会, 北京, 2024.8.  
 \[2] &nbsp; Distilling geographic laws from human mobility data. Urban Data, Science and Technology Workshop (Doctoral student presentation), Tsinghua University, Beijing, 2024.6.  
 \[1] &nbsp; 一种面向知识提取的空间聚类与分区域回归框架 (in Chinese, with Prof. Yu Liu). 第十七届中国地理信息科学理论与方法年会, 杭州, 2021.10.  
