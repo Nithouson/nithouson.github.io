@@ -18,9 +18,9 @@ I am interested in various branches of pure mathematics, especially combinatoric
 I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png). I take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*. I also take part in puzzle hunts.    
 
 ## Travel  
-Foreign countries visited: United States (2017)    
+Foreign countries visited: United States (2017) , France (2025)   
 Provinces of China visited: 18/34    
-World heritage sites visited: 17 cultural, 4 natural, 2 mixed
+World heritage sites visited: 18 cultural, 4 natural, 2 mixed
 
 ## Boardgame 
 I led a boardgame group named <b>Woodpiece League</b> from 2018 to 2025. We played various boardgame genres, including strategy, narrative, and party games. I also play adventure, music, and puzzle videogames.
