@@ -27,7 +27,7 @@ author_profile: true
 
 \[1] &nbsp; <b>Understanding China’s urban system evolution from web search index data</b><br>
 &emsp;&emsp;<b>Hao Guo\*</b>, Weiyu Zhang\*, Haode Du\*, Chaogui Kang, Yu Liu<br>
-&emsp;&emsp;<i>[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[code\]](https://github.com/Nithouson/BaiduCityAttr) [\[exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
+&emsp;&emsp;<i>[EPJ Data Science](https://link.springer.com/article/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[code\]](https://github.com/Nithouson/BaiduCityAttr) [\[exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
 
 ## Other publications
 
