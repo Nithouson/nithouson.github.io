@@ -53,7 +53,7 @@ author_profile: true
 
 \[2] &nbsp; <b>A note on GeoAI from the perspective of geographical laws</b> (从地理规律到地理空间人工智能) <br>
 &emsp;&emsp;Yu Liu, <b>Hao Guo</b>, Haifeng Li, Weihua Dong, Tao Pei<br>
-&emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
+&emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 ## Conferences
 \[4] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]](../docs/netmob25.pdf)    
