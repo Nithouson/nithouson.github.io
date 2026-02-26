@@ -36,7 +36,7 @@ author_profile: true
 * *The One and Only* (唯一) by Accusefive
 * *Wen Yue* (问月) by Tan Qiyin
 * *Home* by Secret Garden
-* *Peace of Mind* by Schonherz & Scott
+* *Dieshu* by Douglas Spotted Eagle  
 * *Merry Christmas Mr. Lawrence* by Sakamoto Ryuichi
 * *The Butterfly Lovers* (梁山伯与祝英台) by He Zhanhao & Chen Gang
 * *Symphony No.9 in E Minor "From the New World"* by Antonin Dvorák
