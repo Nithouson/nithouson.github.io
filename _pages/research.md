@@ -11,11 +11,11 @@ author_profile: true
 
 \[12] <b>Distilling human mobility models with symbolic regression</b><br>
 &emsp;&emsp;<b>Hao Guo\#</b>, Weiyu Zhang\#, Junjie Yang, Yuanqiao Hou, Lei Dong, Yu Liu<br>
-&emsp;&emsp;<i>Geographical Analysis</i>, in press. [\[arXiv\]](https://arxiv.org/abs/2501.05684) [\[code\]](https://github.com/urbansci/FlowSR) <br>
+&emsp;&emsp;<i>[Geographical Analysis](https://onlinelibrary.wiley.com/doi/10.1111/gean.70043)</i>, 2026. [\[arXiv\]](https://arxiv.org/abs/2501.05684) [\[code\]](https://github.com/urbansci/FlowSR) <br>
 
 \[10] <b>RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Han Wang, Di Zhu, Lun Wu, A. Stewart Fotheringham, Yu Liu<br>
-&emsp;&emsp;<i>[Annals of the American Association of Geographers](https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2558661)</i>, 2025. [\[arXiv\]](https://arxiv.org/abs/2501.17599) [\[code\]](https://github.com/Nithouson/RegionGCN) [\[exposition\]](https://mp.weixin.qq.com/s/5MSv7WkNgGPpcBG_MNYbeQ)<br>
+&emsp;&emsp;<i>[Annals of the American Association of Geographers](https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2558661)</i>, 2026. [\[arXiv\]](https://arxiv.org/abs/2501.17599) [\[code\]](https://github.com/Nithouson/RegionGCN) [\[exposition\]](https://mp.weixin.qq.com/s/5MSv7WkNgGPpcBG_MNYbeQ)<br>
 
 \[9] &nbsp; <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
 &emsp;&emsp;<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
@@ -33,7 +33,7 @@ author_profile: true
 
 \[11] &nbsp; <b>GWRBoost: A Geographically Weighted Gradient Boosting Framework for Enhanced Explainable Quantification of Spatially Varying Relationships</b><br>
 &emsp;&emsp;Han Wang, Zhou Huang, <b>Hao Guo</b>, Ganmin Yin, Yi Bao, Xiao Zhou, Yong Gao, Linna Li<br>
-&emsp;&emsp;<i>Annals of the American Association of Geographers</i>, in press.  <br>
+&emsp;&emsp;<i>[Annals of the American Association of Geographers](https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2648327)</i>, in press.  <br>
 
 \[8] &nbsp; <b>A multi-view graph neural network for building age prediction</b><br>
 &emsp;&emsp;Yi Wang\*, Yizhi Zhang\*, Quanhua Dong, <b>Hao Guo</b>, Yingchun Tao, Fan Zhang<br>
