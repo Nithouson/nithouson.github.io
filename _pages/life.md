@@ -15,19 +15,19 @@ Although these questions seem too big, I feel it essential to find my answers to
 Experiences of high school mathematics competition established my passion for mathematics. 
 I am interested in various branches of pure mathematics, especially combinatorics, algebra, and number theory. I am also interested in algorithms and theory of computation.    
 <i>[Ziyi Handbook of Mathematics](https://nithouson.github.io/life/ziyi-handbook)</i> is my lifelong project to systemize what I have learned about mathematics.  
-I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png). I take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, and *Heyawake*. I also take part in puzzle hunts.    
+I enjoy [Project Euler](http://www.projecteuler.net/), a set of problems that combine mathematics and programming. My Project Euler ID is [*Sines* (Nithouson)](https://projecteuler.net/profile/Nithouson.png). I take part in puzzle contests such as [LMI Puzzle Ramayan](https://logicmastersindia.com/) and [WPF Puzzle Grand Prix](https://gp.worldpuzzle.org/). Some of my favorite puzzle genres include *Kakuro*, *Shikaku*, *Yajilin*, *Heyawake* and *Spiral Galaxies*. I also take part in puzzle hunts.    
 
 ## Travel  
-Foreign countries visited: United States (2017) , France (2025)   
+Foreign countries visited: United States (2017), France (2025), Republic of Korea (2026)    
 Provinces of China visited: 18/34    
-World heritage sites visited: 19 cultural, 4 natural, 2 mixed
+World heritage sites visited: 19 cultural, 5 natural, 2 mixed
 
 ## Boardgame 
-I led a boardgame group named <b>Woodpiece League</b> from 2018 to 2025. We played various boardgame genres, including strategy, narrative, and party games. I also play adventure, music, and puzzle videogames.
+I led a boardgame group named <b>Woodpiece League</b> since 2018. We played various boardgame genres, including strategy, narrative, and party games. I also play adventure, music, and puzzle videogames.
 
 
 ## Orienteering  
-Orienteering is my favorite sports. I joined PKU Orienteering Association in 2016. Selected events:  
+Orienteering is my favorite sport. I joined PKU Orienteering Association in 2016. Selected events:  
 * Jul 2022, 1st Beijing-Zhangjiakou Winter Olympics Venue Orienteering, Chongli, Hebei, China (MO 8th place)
 * Aug 2020, X-O-Life Mountain Orienteering, Chongli, Hebei, China
 * Jan 2020, 6th Beidou Orienteering Competition, Longchuan & Zhaoqing, Guangdong, China
