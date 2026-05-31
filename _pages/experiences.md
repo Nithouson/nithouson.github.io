@@ -25,5 +25,5 @@ author_profile: true
 
 ## Service
 
-* Journal Reviewer: <i>[Geographical Analysis](https://onlinelibrary.wiley.com/journal/15384632)</i>, <i> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</i>, <i> [IJGIS](https://www.tandfonline.com/toc/tgis20/current)</i>, <i>[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)</i>,  <i>[Urban Informatics](https://link.springer.com/journal/44212)</i>, <i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/1001-1595/home.shtml)</i> (测绘学报).
+* Journal Reviewer: <i>[Geographical Analysis](https://onlinelibrary.wiley.com/journal/15384632)</i>, <i> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)</i>, <i> [IJGIS](https://www.tandfonline.com/toc/tgis20/current)</i>, <i> [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)</i>, <i>[Urban Climate](https://www.sciencedirect.com/journal/urban-climate)</i>,  <i>[Urban Informatics](https://link.springer.com/journal/44212)</i>, <i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/1001-1595/home.shtml)</i> (测绘学报).
 * Conference Reviewer: <i> [ACM SIGSPATIAL GeoAI](https://dl.acm.org/conference/gis)</i>
