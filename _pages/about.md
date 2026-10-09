@@ -12,4 +12,6 @@ redirect_from:
 
 * My research areas are quantitative geography and spatial data science. Especially, I am interested in developing methods for geospatial analysis, involving spatial statistics, spatial optimization, and computational geometry. I also pay attention to their potential applications in urban science, ecology, and astronomy.
 
-* Current research topics: spatial networks, human mobility, spatial heterogeneity.   
+* Current research topics: spatial networks, human mobility, spatial heterogeneity.
+
+* [Curriculum Vitae](../docs/cv_en.pdf)
